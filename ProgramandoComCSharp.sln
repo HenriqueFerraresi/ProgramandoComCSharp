@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo01.Variaveis", "CSharp.Capitulo01.Variaveis\CSharp.Capitulo01.Variaveis.csproj", "{22E03E4A-9CA1-469B-949D-F08B21DAAE21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo01.ValeTransporte", "CSharp.Capitulo01.ValeTransporte\CSharp.Capitulo01.ValeTransporte.csproj", "{95C2E462-9CEA-4515-B967-47426AA2CA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo01.ValeTransporte", "CSharp.Capitulo01.ValeTransporte\CSharp.Capitulo01.ValeTransporte.csproj", "{95C2E462-9CEA-4515-B967-47426AA2CA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSsharp.Capitulo02.GeradorSenha", "CSsharp.Capitulo02.GeradorSenha\CSsharp.Capitulo02.GeradorSenha.csproj", "{A8712ED9-DFD8-411F-894F-047C0BBDC2CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{95C2E462-9CEA-4515-B967-47426AA2CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C2E462-9CEA-4515-B967-47426AA2CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C2E462-9CEA-4515-B967-47426AA2CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8712ED9-DFD8-411F-894F-047C0BBDC2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8712ED9-DFD8-411F-894F-047C0BBDC2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8712ED9-DFD8-411F-894F-047C0BBDC2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8712ED9-DFD8-411F-894F-047C0BBDC2CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
