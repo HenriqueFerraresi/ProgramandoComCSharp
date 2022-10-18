@@ -55,6 +55,16 @@ namespace CSharp.Capitulo08.Colecoes.Testes
             feriados.Add(new DateTime(2022, 11, 15),"Proclamação");
             feriados.Add(new DateTime(2022, 12, 25),"Natal");
             feriados.Add(new DateTime(2023, 1, 1),"Ano Novo");
+
+            var proclamacao = feriados[new DateTime(2022, 11, 15)];
+
+            foreach (var feriado in feriados)
+            {
+                Console.WriteLine($"{feriado.Key:d}: {feriado.Value}");
+            }
+
+            Console.WriteLine(feriados.ContainsKey(Convert.ToDateTime("15/11/2022")));
+            Console.WriteLine(feriados.ContainsValue("Natal"));
         }
     }
 
