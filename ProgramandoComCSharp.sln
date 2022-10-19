@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSsharp.Capitulo02.GeradorS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo02.EstruturasControle.Testes", "CSharp.Capitulo02.EstruturasControle.Testes\CSharp.Capitulo02.EstruturasControle.Testes.csproj", "{A34D45BB-E4F6-44B8-8F9D-CD6C539513A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo08.Colecoes.Testes", "CSharp.Capitulo08.Colecoes.Testes\CSharp.Capitulo08.Colecoes.Testes.csproj", "{832D698D-98B8-4EBA-AA42-B2F2AF5F8BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo08.Colecoes.Testes", "CSharp.Capitulo08.Colecoes.Testes\CSharp.Capitulo08.Colecoes.Testes.csproj", "{832D698D-98B8-4EBA-AA42-B2F2AF5F8BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintech.Dominio", "Fintech.Dominio\Fintech.Dominio.csproj", "{BE8F2B32-8454-486C-8A92-F0C93576C0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{832D698D-98B8-4EBA-AA42-B2F2AF5F8BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{832D698D-98B8-4EBA-AA42-B2F2AF5F8BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{832D698D-98B8-4EBA-AA42-B2F2AF5F8BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8F2B32-8454-486C-8A92-F0C93576C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8F2B32-8454-486C-8A92-F0C93576C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8F2B32-8454-486C-8A92-F0C93576C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8F2B32-8454-486C-8A92-F0C93576C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
